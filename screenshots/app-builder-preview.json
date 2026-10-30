@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Khe Đá",
+      "hasCanvas": false,
+      "bodyTextLen": 670,
+      "bodyTextHash": "97803c67efb66d8d108db527c713ed27fba08564df5b5adafc49bda93ffe61cd",
+      "bodyTextPrefix": "THẾ GIỚI KHỐI Khe Đá Đào, xây và sống sót qua đêm. Đói dần — hái",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Khe Đá",
+      "hasCanvas": false,
+      "bodyTextLen": 670,
+      "bodyTextHash": "97803c67efb66d8d108db527c713ed27fba08564df5b5adafc49bda93ffe61cd",
+      "bodyTextPrefix": "THẾ GIỚI KHỐI Khe Đá Đào, xây và sống sót qua đêm. Đói dần — hái",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
